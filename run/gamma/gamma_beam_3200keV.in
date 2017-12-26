@@ -1,0 +1,11 @@
+/ND/RecMsg/FileName root_files/bin20keV_gamma/gamma_3200keV.root
+/run/initialize
+/gps/source/intensity 100.00
+/gps/pos/type Plane
+/gps/pos/shape Circle
+/gps/pos/radius 2.5 cm
+/gps/pos/centre 0 0 10.8 cm
+/gps/particle gamma
+/gps/energy 3200 keV
+/gps/direction 0 0 -1
+/run/beamOn 1000000

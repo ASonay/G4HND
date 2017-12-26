@@ -1,0 +1,11 @@
+/ND/RecMsg/FileName root_files/neutron/neutron_280keV.root
+/run/initialize
+/gps/source/intensity 100.00
+/gps/pos/type Plane
+/gps/pos/shape Circle
+/gps/pos/radius 2.5 cm
+/gps/pos/centre 0 0 10.8 cm
+/gps/particle neutron
+/gps/energy 280 keV
+/gps/direction 0 0 -1
+/run/beamOn 10000
